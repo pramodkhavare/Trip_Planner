@@ -19,3 +19,4 @@
 3. BaseModel over __init__
 4. model_post_init 
 5. class Config ---- special class
+6. MessagesState
